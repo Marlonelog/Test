@@ -1,4 +1,6 @@
 # READ ME
+## Setup:
+- use `system` = using System;
 ## This is a test:
 - Print `Test` = Console.WriteLine("Test");
 
